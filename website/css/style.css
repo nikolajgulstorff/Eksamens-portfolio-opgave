@@ -31,9 +31,7 @@ h2 {
     font-size: 3em;
 }
 
-a:hover {
-    color: #0C9527;
-}
+
 /* NAVIGATION */
 header {
     display: flex;
